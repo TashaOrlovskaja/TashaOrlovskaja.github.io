@@ -1,0 +1,14 @@
+body {
+	background-image: url(img/bg.jpg);
+}
+
+h1 {
+	font-family: 'Pattaya', sans-serif;
+	color: white;
+	font-size: 48px;
+}
+
+img {
+	width: 300px;
+	height: 280px !important;
+}
